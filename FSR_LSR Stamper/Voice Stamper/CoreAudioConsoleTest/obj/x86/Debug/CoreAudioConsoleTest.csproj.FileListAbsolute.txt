@@ -1,0 +1,8 @@
+C:\Users\Mehdi\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioConsoleTest.exe.config
+C:\Users\Mehdi\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioConsoleTest.exe
+C:\Users\Mehdi\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioConsoleTest.pdb
+C:\Users\Mehdi\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioApi.dll
+C:\Users\Mehdi\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioApi.pdb
+C:\Users\Mehdi\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioConsoleTest\obj\x86\Debug\CoreAudioConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\Mehdi\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioConsoleTest\obj\x86\Debug\CoreAudioConsoleTest.exe
+C:\Users\Mehdi\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioConsoleTest\obj\x86\Debug\CoreAudioConsoleTest.pdb

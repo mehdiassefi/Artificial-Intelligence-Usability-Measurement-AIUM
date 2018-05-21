@@ -1,0 +1,11 @@
+C:\Users\Mehdi\Desktop\CoreAudio2_Src\CoreAudioApi\bin\Debug\CoreAudioApi.dll
+C:\Users\Mehdi\Desktop\CoreAudio2_Src\CoreAudioApi\bin\Debug\CoreAudioApi.pdb
+C:\Users\Mehdi\Desktop\CoreAudio2_Src\CoreAudioApi\obj\Debug\CoreAudioApi.csprojResolveAssemblyReference.cache
+C:\Users\Mehdi\Desktop\CoreAudio2_Src\CoreAudioApi\obj\Debug\CoreAudioApi.dll
+C:\Users\Mehdi\Desktop\CoreAudio2_Src\CoreAudioApi\obj\Debug\CoreAudioApi.pdb
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\CoreAudioApi\bin\Debug\CoreAudioApi.dll
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\CoreAudioApi\bin\Debug\CoreAudioApi.pdb
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\CoreAudioApi\obj\Debug\CoreAudioApi.csprojResolveAssemblyReference.cache
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\CoreAudioApi\obj\Debug\CoreAudioApi.csproj.CoreCompileInputs.cache
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\CoreAudioApi\obj\Debug\CoreAudioApi.dll
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\CoreAudioApi\obj\Debug\CoreAudioApi.pdb
