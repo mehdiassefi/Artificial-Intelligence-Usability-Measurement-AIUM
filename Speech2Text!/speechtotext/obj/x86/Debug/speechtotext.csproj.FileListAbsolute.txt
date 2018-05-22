@@ -1,0 +1,28 @@
+e:\users\serviceimp\documents\visual studio 2010\Projects\speechtotext\speechtotext\bin\Debug\speechtotext.exe
+e:\users\serviceimp\documents\visual studio 2010\Projects\speechtotext\speechtotext\bin\Debug\speechtotext.pdb
+e:\users\serviceimp\documents\visual studio 2010\Projects\speechtotext\speechtotext\obj\x86\Debug\speechtotext.aboutcs.resources
+e:\users\serviceimp\documents\visual studio 2010\Projects\speechtotext\speechtotext\obj\x86\Debug\speechtotext.Form1.resources
+e:\users\serviceimp\documents\visual studio 2010\Projects\speechtotext\speechtotext\obj\x86\Debug\speechtotext.Properties.Resources.resources
+e:\users\serviceimp\documents\visual studio 2010\Projects\speechtotext\speechtotext\obj\x86\Debug\speechtotext.csproj.GenerateResource.Cache
+e:\users\serviceimp\documents\visual studio 2010\Projects\speechtotext\speechtotext\obj\x86\Debug\speechtotext.exe
+e:\users\serviceimp\documents\visual studio 2010\Projects\speechtotext\speechtotext\obj\x86\Debug\speechtotext.pdb
+C:\Documents and Settings\administrator\Desktop\speechtotext\speechtotext\speechtotext\obj\x86\Debug\speechtotext.exe
+C:\Documents and Settings\administrator\Desktop\speechtotext\speechtotext\speechtotext\obj\x86\Debug\speechtotext.pdb
+C:\Documents and Settings\administrator\Desktop\speechtotext\speechtotext\speechtotext\bin\Debug\speechtotext.exe
+C:\Documents and Settings\administrator\Desktop\speechtotext\speechtotext\speechtotext\bin\Debug\speechtotext.pdb
+C:\Documents and Settings\administrator\Desktop\speechtotext\speechtotext\speechtotext\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\administrator\Desktop\speechtotext\speechtotext\speechtotext\obj\x86\Debug\speechtotext.aboutcs.resources
+C:\Documents and Settings\administrator\Desktop\speechtotext\speechtotext\speechtotext\obj\x86\Debug\speechtotext.Form1.resources
+C:\Documents and Settings\administrator\Desktop\speechtotext\speechtotext\speechtotext\obj\x86\Debug\speechtotext.Properties.Resources.resources
+C:\Documents and Settings\administrator\Desktop\speechtotext\speechtotext\speechtotext\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\administrator\Desktop\speechtotext\speechtotext\speechtotext\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\RealTime-Streaming-with-Network-Coding\speechtotext\speechtotext\bin\Debug\speechtotext.exe
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\RealTime-Streaming-with-Network-Coding\speechtotext\speechtotext\bin\Debug\speechtotext.pdb
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\RealTime-Streaming-with-Network-Coding\speechtotext\speechtotext\obj\x86\Debug\speechtotext.csprojResolveAssemblyReference.cache
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\RealTime-Streaming-with-Network-Coding\speechtotext\speechtotext\obj\x86\Debug\speechtotext.aboutcs.resources
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\RealTime-Streaming-with-Network-Coding\speechtotext\speechtotext\obj\x86\Debug\speechtotext.Form1.resources
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\RealTime-Streaming-with-Network-Coding\speechtotext\speechtotext\obj\x86\Debug\speechtotext.Properties.Resources.resources
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\RealTime-Streaming-with-Network-Coding\speechtotext\speechtotext\obj\x86\Debug\speechtotext.csproj.GenerateResource.Cache
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\RealTime-Streaming-with-Network-Coding\speechtotext\speechtotext\obj\x86\Debug\speechtotext.csproj.CoreCompileInputs.cache
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\RealTime-Streaming-with-Network-Coding\speechtotext\speechtotext\obj\x86\Debug\speechtotext.exe
+C:\Users\BRG_user\Desktop\MyProjects\Git\CODEC\RealTime-Streaming-with-Network-Coding\speechtotext\speechtotext\obj\x86\Debug\speechtotext.pdb
