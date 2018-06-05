@@ -1,6 +1,7 @@
 # RealTime-Streaming-with-Network-Coding
 This project contains several components each serve as parts of an experimental testbed for real-time streaming.
-#Publications: 
+
+Publications: 
 
 1- Assefi, Mehdi, Mike Wittie, and Allan Knight. "Impact of network performance on cloud speech recognition." In Computer Communication and Networks (ICCCN), 2015 24th International Conference on, pp. 1-6. IEEE, 2015.
 
